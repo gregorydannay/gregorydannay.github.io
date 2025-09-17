@@ -48,6 +48,8 @@ socials_in_search: false
 posts_in_search: false
 bib_search: false
 
+cv_pdf: Resume_Gregory_Dannay.pdf
+
 # Dimensions
 max_width: 930px
 
