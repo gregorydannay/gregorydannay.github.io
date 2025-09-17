@@ -18,10 +18,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a PhD Candidate in Economics at the European University Institute. My advisors are [Laurent Mathevet](https://efs.btq.mybluehost.me/) and [Giacomo Calzolari](https://sites.google.com/view/giacomo-calzolari).
