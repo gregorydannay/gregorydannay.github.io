@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /research/
 title: research
 description: 
@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Working Papers
+## working papers
 
 - **Price discrimination in a competitive market**  
   *I explore how a firm optimally uses data to price discriminate consumers in a duopoly. In a Bertrand competition with
@@ -18,7 +18,7 @@ firm’s profit and the consumer surplus*
 
 ---
 
-## Work in Progress
+## work in progress
 
 - **Transparency in Scoring Mechanisms**  
 
