@@ -19,4 +19,4 @@ I am a PhD Candidate in Economics at the European University Institute. My advis
 
 My research interests are mainly in information economics and mechanism design. You can learn more about my research [here](/research).
 
-You can send me an emain at gregory.dannay@eui.eu.
+If you want to reach out, you can contact me at gregory.dannay@eui.eu.
