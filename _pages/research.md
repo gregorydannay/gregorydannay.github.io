@@ -12,11 +12,7 @@ nav_order: 2
 
 - **Price discrimination in a competitive market**  
 <br/>
-  *I explore how a firm optimally uses data to price discriminate consumers in a duopoly. In a Bertrand competition with
-two firms, one firm designs a signal and receives additional information about the consumers’ preferences which it then uses
-for price discrimination. I show that the informed firm optimally coarses the signal in order to incentivize its competitor
-to post a high price. The informational advantage grants the informed firm a higher profit while lowering the uninformed
-firm’s profit and the consumer surplus*  
+In a duopoly model, one firm commits to an information structure that determines how much it learns about consumers’ preferences before engaging in price discrimination. I show that the optimal structure pools together consumers from different parts of the market, so that the informed firm cannot distinguish its own consumers from those of its rival. The information structure creates two consumer groups, interpreted as each firm's natural turf, in a credible, incentive-compatible way. By committing to such a structure, the informed firm limits its ability to target rival customers, thereby softening price competition. Anticipating weaker competition on its own turf, the uninformed firm sets a higher price, allowing the dominant firm to extract a larger surplus from its own consumers. Relative to standard benchmark regimes, the informational advantage increases the informed firm’s profit, reduces individual consumer surplus, and may reduce the rival’s profit. The effect on total surplus is ambiguous: efficiency gains from serving consumers who would otherwise be excluded in the absence of additional information may outweigh the losses from inefficient poaching.
 <br/>
 
 ---
