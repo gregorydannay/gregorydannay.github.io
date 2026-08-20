@@ -17,6 +17,7 @@ Asymmetric access to consumer data is common in many digital markets and online 
 
 - **Transparency in Scoring Mechanisms**
 <br/>
+<br/>
 I study the optimal disclosure policy of a scoring mechanism when an agent can manipulate its inputs. A principal holds a private valuation of an agent's private quality and commits to disclosing a message about it. Upon observing this message, the agent reports his quality, but can distort this report at a cost. The principal then assigns a score based on both her belief about the agent's quality and her own valuation. I introduce a constrained class of disclosure policies, called Monotone or Mute signals, in which every message except one must reveal that the valuation lies within a given interval. Under this constraint, the optimal policy simply reveals when the valuation falls within a single intermediate interval, and stays silent when the valuation is either low or high, thereby reducing the harmful impact of distortion when the valuation is high.
 <br/>
 
