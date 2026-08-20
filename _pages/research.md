@@ -10,18 +10,21 @@ nav_order: 2
 ## working papers
 <br/>
 
-- **Price discrimination in a competitive market**  
+- **Price Discrimination in a Competitive Market**  
 <br/>
-In a duopoly model, one firm commits to an information structure that determines how much it learns about consumers’ preferences before engaging in price discrimination. I show that the optimal structure pools together consumers from different parts of the market, so that the informed firm cannot distinguish its own consumers from those of its rival. The information structure creates two consumer groups, interpreted as each firm's natural turf, in a credible, incentive-compatible way. By committing to such a structure, the informed firm limits its ability to target rival customers, thereby softening price competition. Anticipating weaker competition on its own turf, the uninformed firm sets a higher price, allowing the dominant firm to extract a larger surplus from its own consumers. Relative to standard benchmark regimes, the informational advantage increases the informed firm’s profit, reduces individual consumer surplus, and may reduce the rival’s profit. The effect on total surplus is ambiguous: efficiency gains from serving consumers who would otherwise be excluded in the absence of additional information may outweigh the losses from inefficient poaching.
+Asymmetric access to consumer data is common in many digital markets and online platforms. I study a Bertrand duopoly in which one firm possesses richer data than its rival and can commit to a segmentation policy for personalized pricing. In equilibrium, the optimal information structure coarsens consumer data to soften price competition, thereby reducing each consumer's surplus.
+<br/>
+
+- **Transparency in Scoring Mechanisms**
+<br/>
+I study the optimal disclosure policy of a scoring mechanism when an agent can manipulate its inputs. A principal holds a private valuation of an agent's private quality and commits to disclosing a message about it. Upon observing this message, the agent reports his quality, but can distort this report at a cost. The principal then assigns a score based on both her belief about the agent's quality and her own valuation. I introduce a constrained class of disclosure policies, called Monotone or Mute signals, in which every message except one must reveal that the valuation lies within a given interval. Under this constraint, the optimal policy simply reveals when the valuation falls within a single intermediate interval, and stays silent when the valuation is either low or high, thereby reducing the harmful impact of distortion when the valuation is high.
 <br/>
 
 ---
 
 ## work in progress
-<br/>
+<br/> 
 
-- **Transparency in Scoring Mechanisms**  
-
-- **AI and Goal Misalignment** joint with Michal Tulwin (EUI)  
+- **Dynamic Optimal Price Discrimination in a Competitive Environment** 
 
 ---
