@@ -11,7 +11,7 @@ nav_order: 2
 <br/>
 
 - **Price Discrimination in a Competitive Market**  
-Asymmetric access to consumer data is common in many digital markets and online platforms. I study a Bertrand duopoly in which one firm possesses richer data than its rival and can commit to a segmentation policy for personalized pricing. In equilibrium, the optimal information structure coarsens consumer data to soften price competition, thereby reducing each consumer's surplus.
+Asymmetric access to consumer data is common in many digital markets and online platforms. I study a Bertrand duopoly in which one firm possesses richer data than its rival and can commit to a segmentation policy for personalized pricing. In equilibrium, the optimal information structure coarsens consumer data to soften price competition, thereby reducing aggregate consumer surplus.
 <br/>
 
 - **Transparency in Scoring Mechanisms**  
