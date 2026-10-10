@@ -24,6 +24,7 @@ I study the optimal disclosure policy of a scoring mechanism when an agent can m
 <br/> 
 
 - **Value of Information for Price Discrimination**
+
 Which information is most valuable to a firm that price discriminates in a competitive environment?
 
 ---
