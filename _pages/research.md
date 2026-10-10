@@ -10,7 +10,7 @@ nav_order: 2
 ## working papers
 <br/>
 
-- **Asymmetric Access to Consumer Data and Implicit Collusion**  
+- **Asymmetric Access to Consumer Data and Softened Competition**  
 Asymmetric access to consumer data is common in digital markets. I study a Bertrand duopoly in which one firm has richer data than its competitor and can commit to a segmentation policy for personalized pricing, while its competitor sets a uniform price. In equilibrium, the optimal information structure coarsens consumer data to soften price competition. Under a monotone loyalty condition, every consumer is worse off than both when the informed firm sets a uniform price and when it fully personalizes its prices. Without this condition, consumers remain worse off in aggregate than under full personalization, and, in fully covered markets, than under uniform pricing.
 <br/>
 
