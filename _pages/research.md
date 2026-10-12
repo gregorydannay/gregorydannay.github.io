@@ -1,4 +1,4 @@
-≥---
+---
 layout: default
 permalink: /research/
 title: research
