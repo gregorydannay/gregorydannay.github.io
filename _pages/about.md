@@ -21,4 +21,4 @@ My research interests are mainly in information economics and mechanism design. 
 
 **I am on the 2026-2027 job market.**
 
-If you want to reach out, you can contact me at gregory.dannay@eui.eu.
+If you want to reach out, you can contact me at gregory.dannay@eui.eu
